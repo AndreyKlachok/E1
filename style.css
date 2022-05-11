@@ -1,0 +1,52 @@
+body{
+    background-image: url('https://oir.mobi/uploads/posts/2021-03/1616424600_18-p-krasivii-goluboi-fon-22.jpg');
+    /*background-color: rgb(179, 185, 185);*/
+    font-family:Courier, sans-serif;
+}
+
+.header{
+    display: table;
+    width: 100%;
+    background-image: url('https://img.lovepik.com/background/20211020/small/lovepik-intelligent-high-tech-design-background-image_400057613.jpg');
+    /*background-color: #848a89;*/
+}
+
+.logo-container{
+    color: rgb(37, 7, 7);
+    float: left;
+    padding-left: 25px
+}
+
+.navigation{
+    float: right;
+    height: 100%;
+}
+ 
+.navigation a{
+    height: 100%;
+    display: table;
+    float: left;
+    padding: 0px 20px;
+
+}
+ 
+.navigation a li{
+    vertical-align: middle;
+    display: table-cell;
+    font-size: 20px;
+    color: rgb(37, 7, 7);
+}
+ 
+.navigation a:hover{
+    background-color: #628a83;
+    color: #c9b0b0;
+}
+
+.content{
+    text-align: center;
+}
+
+.leftimg{
+    float:left;
+    margin: 7px 7px 7px 0;
+}
